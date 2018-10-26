@@ -156,7 +156,7 @@ nav li a:hover {
 @media screen (max-width: 680px) and (orientation: landscape) {
     nav ul {
     text-align: center;
-    background-color: #333;
+    background-color: yellow;
 
   }
 
