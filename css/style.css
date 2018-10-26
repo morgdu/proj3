@@ -62,7 +62,7 @@ nav li {
 }
 
 nav li a {
-  color: white;
+  color: yellow;
   padding: .5em;
   font-family: 'Amatic SC', cursive;
   text-decoration: none;
@@ -153,23 +153,10 @@ nav li a:hover {
 
 }
 
-@media screen (orientation: landscape) {
-    nav ul {
-    text-align: center;
+@media screen (max-width: 680px) and (orientation: landscape) {
+    body {
     background-color: yellow;
-
-  }
-
-  nav ul li {
-    display: inline-block;
-    border-top: 0;
-  }
-
-  nav ul li a {
-    padding: 1em;
-    text-decoration: none;
-  }
-
+    }
 }
 
 
