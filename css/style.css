@@ -72,7 +72,7 @@ nav li a {
 
 
 nav li a:hover {
-  background-color: #4B607D;
+  background-color: #36455b
 
 }
 
@@ -83,7 +83,7 @@ nav li a:hover {
     }
 
     div.itemh {
-        background-color: #4B607D;
+        background-color: #93a8c9;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -205,7 +205,7 @@ nav li a:hover {
 }
 
 div.itemh {
-    background-color: #4B607D;
+    background-color: #93a8c9;
     display: flex;
     align-items: center;
     justify-content: center;
