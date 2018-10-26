@@ -1,3 +1,9 @@
+@media screen (max-width: 680px) and (orientation: landscape) {
+    body {
+    background-color: yellow;
+    }
+}
+
 h1, h2, h3, h4, h5, h6 {
     color: black;
     font-family: 'Amatic SC', cursive;
@@ -62,7 +68,7 @@ nav li {
 }
 
 nav li a {
-  color: yellow;
+  color: white;
   padding: .5em;
   font-family: 'Amatic SC', cursive;
   text-decoration: none;
@@ -151,12 +157,6 @@ nav li a:hover {
 .cell img {
   display: block;
 
-}
-
-@media screen (max-width: 680px) and (orientation: landscape) {
-    body {
-    background-color: yellow;
-    }
 }
 
 
